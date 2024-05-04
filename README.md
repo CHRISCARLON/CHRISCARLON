@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Chris Carlon, a passionate data enthusiast transitioning into the exciting field of data engineering.
+I'm Chris Carlon, a passionate data enthusiast transitioning into the field of data engineering.
 
 Throughout my career so far, I've been heavily involved in policy and program delivery, mainly on programmes with a strong data and technology focus.
 

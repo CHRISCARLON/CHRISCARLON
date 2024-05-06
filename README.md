@@ -9,6 +9,13 @@ I'm now excited to pivot towards a career in data engineering, a field that's es
 Over the last two years, I’ve committed myself to reskilling, driven by a strong passion for the nitty-gritty side of things. I've always had a knack for understanding data from a policy/operational perspective, and now I’m eager to apply my technical skills to tackle data challenges directly.
 
 
-# Contact Me
+# Contact me
 
 Feel free to reach out to me via email at `christopher.carlon@icloud.com` or via my website [ccarlon.com](http://ccarlon.com).
+
+# Currently working on
+
+### DFT Street Manager Pipeline
+### Passing the DataCamp Data Engineer Certification
+### Passing the PCAP™ – Certified Associate Python Programmer
+### Securing a data engineering job role

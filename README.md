@@ -15,7 +15,7 @@ Feel free to reach out to me via email at `christopher.carlon@icloud.com` or via
 
 # Currently working on
 
-### DFT Street Manager Pipeline
-### Passing the DataCamp Data Engineer Certification
-### Passing the PCAP™ – Certified Associate Python Programmer
-### Securing a data engineering job role
+##### 1. DFT Street Manager Pipeline
+##### 2. Passing the DataCamp Data Engineer Certification
+##### 3. Passing the PCAP™ – Certified Associate Python Programmer
+##### 4. Securing a data engineering job role

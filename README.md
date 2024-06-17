@@ -6,8 +6,7 @@ Throughout my career so far, I've been heavily involved in policy and program de
 
 I'm now excited to pivot towards a career in data engineering, a field that's essential for unlocking the full potential of AI and data analytics in general.
 
-Over the last two years, I’ve committed myself to reskilling, driven by a strong passion for the nitty-gritty side of things. I've always had a knack for understanding data from a policy/operational perspective, and now I’m eager to apply my technical skills to tackle data challenges directly.
-
+I've always had a knack for understanding data from a policy/operational perspective, and now I’m eager to apply my technical skills to tackle data challenges directly.
 
 # Contact me
 
@@ -16,5 +15,3 @@ Feel free to reach out to me via email at `christopher.carlon@icloud.com` or via
 # Currently working on
 
 1. Street Works Open Data Pipeline: [link](https://github.com/CHRISCARLON/Open-Street-Works-Data-Pipeline)
-2. Passing the DataCamp Data Engineer Certification
-3. Passing the PCAP™ – Certified Associate Python Programmer. 

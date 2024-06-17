@@ -14,4 +14,5 @@ Feel free to reach out to me via email at `christopher.carlon@icloud.com` or via
 
 # Currently working on
 
-1. Street Works Open Data Pipeline: [link](https://github.com/CHRISCARLON/Open-Street-Works-Data-Pipeline)
+1. Improving [Street Works Open Data Pipeline](https://github.com/CHRISCARLON/Open-Street-Works-Data-Pipeline)
+2. Maintaining [Word on the Street](https://word-on-the-street.evidence.app)

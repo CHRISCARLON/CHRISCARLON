@@ -17,4 +17,3 @@ Feel free to reach out to me via email at `christopher.carlon@icloud.com` or via
 1. Improving [Street Works Open Data Pipeline](https://github.com/CHRISCARLON/Open-Street-Works-Data-Pipeline)
 2. Maintaining [Word on the Street](https://word-on-the-street.evidence.app) (A Monthly Review of London's Street Works)
 3. Practicing Rust and building a simple Excel file scanner [Excel-File-Scanner](https://github.com/CHRISCARLON/excel-quick-scan)
-4. Scoping out [Py-Litical](https://github.com/CHRISCARLON/Py-Litical) and putting in some basic structure for the future 

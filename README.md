@@ -10,7 +10,7 @@ I've always had a knack for understanding data from a policy/operational perspec
 
 # Contact me
 
-Feel free to reach out to me via email at `christopher.carlon@icloud.com` or via my website [ccarlon.com](http://ccarlon.com).
+Feel free to reach out to me via email at `christopher.carlon@icloud.com` or via my website [ccarlon.com](https://www.ccarlon.dev).
 
 # Currently working on
 

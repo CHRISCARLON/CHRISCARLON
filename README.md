@@ -14,6 +14,8 @@ Feel free to reach out to me via email at `chris@enmeshed.dev` or via my website
 
 # Currently working on
 
+Getting better at Python, Rust, and Typescript through:
+
 1. Improving [Street Works Open Data Pipeline](https://github.com/CHRISCARLON/Open-Street-Works-Data-Pipeline)
 2. Maintaining [Word on the Street](https://word-on-the-street.evidence.app) (A Monthly Review of London's Street Works)
 3. Practicing Rust and building a simple Excel file scanner [Excel-File-Scanner](https://github.com/CHRISCARLON/excel-quick-scan)

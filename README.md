@@ -18,6 +18,6 @@ Getting better at Python, Rust, and Typescript through:
 
 1. Improving [Street Works Open Data Pipeline](https://github.com/CHRISCARLON/Open-Street-Works-Data-Pipeline)
 2. Maintaining [Word on the Street](https://word-on-the-street.evidence.app) (A Monthly Review of London's Street Works)
-3. Practicing Rust and building a simple CLI tool [Nebby](https://github.com/CHRISCARLON/nebby)
+3. Practicing Rust and building a simple CLI tool called [Nebby](https://github.com/CHRISCARLON/nebby)
 4. Scoping out [Herding-CATs](https://github.com/CHRISCARLON/Herding-CATs)
 5. Contributing to [Enmeshed-Analytics](https://www.enmeshed.dev)

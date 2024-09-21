@@ -4,8 +4,6 @@ I'm Chris, a passionate data enthusiast.
 
 Throughout my career so far, I've been heavily involved in policy and program delivery, mainly on programmes with a strong data and technology focus.
 
-I'm now excited to pivot towards a career in data.
-
 I've always had a knack for understanding data from a policy/operational perspective, and now I’m eager to apply my technical skills to tackle data challenges directly.
 
 # Contact me

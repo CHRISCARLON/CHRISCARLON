@@ -6,11 +6,11 @@ Throughout my career so far, I've been heavily involved in policy and program de
 
 I've always had a knack for understanding data from a policy/operational perspective, and now I’m eager to apply my technical skills to tackle data challenges directly.
 
-# Contact me
+## Contact me
 
 Feel free to reach out to me via email at `chris@enmeshed.dev` or via my website [ccarlon.dev](https://www.ccarlon.dev).
 
-# Currently working on
+## Currently working on
 
 **Getting better at...**
 

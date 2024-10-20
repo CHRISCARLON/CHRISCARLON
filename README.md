@@ -22,7 +22,7 @@ Feel free to reach out to me via email at `chris@enmeshed.dev` or via my website
 
 **Building the following...**
 
-1. Building [Enmeshed-Analytics](https://www.enmeshed.dev)
+1. Building [Enmeshed](https://www.enmeshed.dev)
 2. Improving [Street Works Open Data Pipeline](https://github.com/CHRISCARLON/Open-Street-Works-Data-Pipeline)
 3. Maintaining [Word on the Street](https://word-on-the-street.evidence.app) (A Monthly Review of London's Street Works)
 4. Building a simple CLI tool called [Nebby](https://github.com/CHRISCARLON/nebby) in Rust

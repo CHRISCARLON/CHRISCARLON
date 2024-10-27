@@ -10,7 +10,7 @@ I've always had a knack for understanding data from a policy/operational perspec
 
 Feel free to reach out to me via email at `chris@enmeshed.dev` or via my website [ccarlon.dev](https://www.ccarlon.dev).
 
-## Currently working on
+## Working on
 
 **Getting better at...**
 
@@ -22,10 +22,10 @@ Feel free to reach out to me via email at `chris@enmeshed.dev` or via my website
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Building the following...**
+**Currently...**
 
-1. Building [Enmeshed](https://www.enmeshed.dev)
-2. Building [GridWalk](https://github.com/enmeshed-analytics/gridwalk)
+1. Building a small data consultancy called [Enmeshed](https://www.enmeshed.dev)
+2. Building a modern geospatial web app called [GridWalk](https://github.com/enmeshed-analytics/gridwalk)
 3. Improving [Street Works Open Data Pipeline](https://github.com/CHRISCARLON/Open-Street-Works-Data-Pipeline)
 4. Maintaining [Word on the Street](https://word-on-the-street.evidence.app) (A Monthly Review of London's Street Works)
 5. Improving my Rust through building a simple CLI tool called [Nebby](https://github.com/CHRISCARLON/nebby) in Rust

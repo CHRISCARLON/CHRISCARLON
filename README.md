@@ -24,9 +24,9 @@ Feel free to reach out to me via email at `chris@enmeshed.dev` or via my website
 
 **Currently...**
 
-1. Freelance work through [Enmeshed](https://www.enmeshed.dev)
-2. Building a modern geospatial web app called [GridWalk](https://github.com/enmeshed-analytics/gridwalk)
-3. Improving [Street Works Open Data Pipeline](https://github.com/CHRISCARLON/Open-Street-Works-Data-Pipeline)
-4. Maintaining [Word on the Street](https://word-on-the-street.evidence.app) (A Monthly Review of London's Street Works)
-5. Improving my Rust through building a simple CLI tool called [Nebby](https://github.com/CHRISCARLON/nebby) in Rust
-6. Working on an open source Python library called [Herding-CATs](https://github.com/CHRISCARLON/Herding-CATs)
+1. Building a modern geospatial web app called [GridWalk](https://github.com/enmeshed-analytics/gridwalk)
+2. Improving [Street Works Open Data Pipeline](https://github.com/CHRISCARLON/Open-Street-Works-Data-Pipeline)
+3. Maintaining [Word on the Street](https://word-on-the-street.evidence.app) (A Monthly Review of London's Street Works)
+4. Improving my Rust through building a simple CLI tool called [Nebby](https://github.com/CHRISCARLON/nebby) in Rust
+5. Working on an open source Python library called [Herding-CATs](https://github.com/CHRISCARLON/Herding-CATs)
+6. Freelance work through [Enmeshed](https://www.enmeshed.dev)

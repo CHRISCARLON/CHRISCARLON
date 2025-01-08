@@ -24,7 +24,7 @@ Feel free to reach out to me via email at `chris@enmeshed.dev` or via my website
 
 **Currently...**
 
-1. Building a small data consultancy called [Enmeshed](https://www.enmeshed.dev)
+1. Freelance work through [Enmeshed](https://www.enmeshed.dev)
 2. Building a modern geospatial web app called [GridWalk](https://github.com/enmeshed-analytics/gridwalk)
 3. Improving [Street Works Open Data Pipeline](https://github.com/CHRISCARLON/Open-Street-Works-Data-Pipeline)
 4. Maintaining [Word on the Street](https://word-on-the-street.evidence.app) (A Monthly Review of London's Street Works)

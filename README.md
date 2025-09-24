@@ -2,7 +2,7 @@
 
 I'm Chris, a passionate data enthusiast.
 
-My current focus is all things USRNs, UPRNs, and infrastructure data analysis.
+My current focus is all things USRNs, UPRNs, street works, and infrastructure analysis.
 
 ## Contact me
 

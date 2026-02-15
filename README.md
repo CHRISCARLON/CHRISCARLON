@@ -1,16 +1,23 @@
 # Hello! 👋
 
-I'm Chris, a passionate data enthusiast.
+I'm Chris and I'm based in Leeds.
 
-My current focus is all things USRNs, UPRNs, street works, and infrastructure analysis.
+I currently work as a Data Scientist for GeoPlace and have a background in languages, social sciences, and data analysis.
 
 ## Contact me
 
 Feel free to reach out to me via email at `chriscarlon@icloud.com` or via my website [ccarlon.dev](https://www.ccarlon.dev).
 
-## Working on
+## Currently focused on...
 
-**Getting better at...**
+- National Streets Gazeteer (NSG)
+- Underground assets, street works data, and infrastructure
+- Unique Street Reference Numbers (USRNs) & Unique Property Reference Numbers (UPRNs)
+- Mini prototypes showcasing cool things with open data [here](datawatchman.dev)
+- Getting nerdy about hex grid implementations
+- Probably reading about Louis Pasteur
+
+## Trying to get better at
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

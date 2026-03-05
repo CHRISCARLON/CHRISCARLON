@@ -13,7 +13,7 @@ Feel free to reach out to me via email at `chriscarlon@icloud.com` or via my web
 - National Streets Gazeteer (NSG)
 - Underground assets, street works data, and infrastructure
 - Unique Street Reference Numbers (USRNs) & Unique Property Reference Numbers (UPRNs)
-- Mini prototypes showcasing cool things with open data [here](datawatchman.dev)
+- Mini prototypes showcasing cool things with open data [here](https://www.datawatchman.dev/)
 - Getting nerdy about hex grid implementations
 - Probably reading about Louis Pasteur
 

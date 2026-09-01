@@ -14,10 +14,10 @@ I sometimes post about what I am working on here: [ccarlon.dev](https://www.ccar
 
 ## Currently focused on...
 
-- Unique Street Reference Numbers (USRNs) & Unique Property Reference Numbers (UPRNs)
-- Geo Matcher: [here](https://github.com/CHRISCARLON/geo-matcher)
-- Underground assets, street works, and infrastructure data
+- Geo Matcher: [here](https://github.com/CHRISCARLON/geo-matcher)]
 - Road Stat API: [here](https://chriscarlon.github.io/road-stat-docs/)
 - USRN Engine: [here](https://www.usrnengine.com)
 - Rust hex grid for the British National Grid: [here](https://chriscarlon.github.io/road-stat-docs/)
+- Underground assets, street works, and infrastructure data
+- Unique Street Reference Numbers (USRNs) & Unique Property Reference Numbers (UPRNs)
 - Probably reading about Louis Pasteur
